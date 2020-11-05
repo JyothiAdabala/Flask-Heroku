@@ -1,5 +1,5 @@
 ### Team Mates :
-1. A.B.V.R.Jyohti (Register No : 18PA1A0502)
+1. A.B.V.R.Jyothi (Register No : 18PA1A0502)
 2. D.Anusha (Register No : 18PA1A0539)
 
 ### Objective : 
