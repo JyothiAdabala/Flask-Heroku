@@ -16,3 +16,4 @@ https://youtu.be/nxQ4-T-RAag
 https://flask-heroku1.herokuapp.com/
 
 ### Block Diagram :
+![diagram](https://user-images.githubusercontent.com/68616514/98231761-d71acf00-1f82-11eb-8440-1bd453399fa1.jpg)
