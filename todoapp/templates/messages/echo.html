@@ -1,0 +1,19 @@
+{% extends 'messages/botbase.html' %}
+
+
+
+{% block content %}
+
+<p>
+You sent {{data.key}}:{{data.message}}
+</p>
+<p>
+   Something went wrong
+</p>
+
+
+{% endblock %} 
+    
+
+
+{% include 'messages/userinput.html' %}

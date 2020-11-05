@@ -1,0 +1,15 @@
+{% extends 'messages/botbase.html' %}
+
+
+
+{% block content %}
+
+{% if data.get('cod') == 200 %}
+<p>City Name : {{data["name"]}}</p>
+<p>Temparature : {{data["main"]["temp"]}}</p>
+<p>Description : {{data['weather'][0]['description']}}</p>
+{% else %}
+<p>City not found</p>
+{% endif %}
+
+{% endblock %}
